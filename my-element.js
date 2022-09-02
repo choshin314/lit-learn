@@ -22,6 +22,14 @@ export class MyElement extends LitElement {
         padding: 16px;
         max-width: 800px;
       }
+      button {
+        background: deeppink;
+        border-radius: .25rem;
+        padding-inline: 1rem;
+        padding-block: .5rem;
+        font-size: 1rem;
+        font-family: sans-serif;
+      }
     `;
   }
 

@@ -1,3 +1,6 @@
+# Purpose
+This is just goofin around to prove out bringing lit/web component in to a few different frameworks
+
 # LitElement JavaScript starter
 
 This project includes a sample component using LitElement with JavaScript.
